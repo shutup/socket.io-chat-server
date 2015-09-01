@@ -5,4 +5,7 @@ this is the demo server for socket.io-chat app.
 ##How to run 
 * setup the node.js
 * then install needed package
+  ``` 
+npm install
+  ```
 * then run it !
